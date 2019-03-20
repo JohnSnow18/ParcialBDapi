@@ -1,0 +1,21 @@
+{
+  "name": "API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "is-email": "^1.0.0",
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.10",
+    "random-hash": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
